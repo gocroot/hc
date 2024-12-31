@@ -1,2 +1,2 @@
-# hc
+# HC
 Headless CMS
